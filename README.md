@@ -10,10 +10,10 @@ Website ini adalah halaman profil sederhana yang dibuat menggunakan HTML dan CSS
 
 ## Structure
 
-project-directory
-index.html # File HTML untuk halaman profil
-styles.css # File CSS untuk styling halaman
-image # Folder untuk gambar, termasuk foto profil (download.jpeg)
+/project-directory
+├── index.html # File HTML untuk halaman profil
+├── styles.css # File CSS untuk styling halaman
+└── /image # Folder untuk gambar, termasuk foto profil (download.jpeg)
 
 ## Contributing
 
